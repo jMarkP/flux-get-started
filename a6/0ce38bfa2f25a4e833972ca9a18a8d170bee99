@@ -1,0 +1,1 @@
+{"jobID":"8f099a96-05e6-7756-dbd0-982689e0ad96","spec":{"type":"policy","cause":{"Message":"","User":"Mark Pim \u003cj.mark.pim@gmail.com\u003e"},"spec":{"demo:helmrelease/mongodb":{"add":{"locked":"true","locked_msg":"","locked_user":"Mark Pim \u003cj.mark.pim@gmail.com\u003e"},"remove":{}}}},"result":null}
